@@ -1,5 +1,5 @@
 
-# Cotton Disease Detection using ResNet152V2
+# Cotton Disease Detection using ResNet50V2
 
 This project utilizes the ResNet152V2 architecture for detecting diseases in cotton plants. The model is trained using a dataset containing images of healthy and diseased cotton plants. The implementation is done using TensorFlow 2.9.1.
 
